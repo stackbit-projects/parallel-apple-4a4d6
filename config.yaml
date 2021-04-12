@@ -19,7 +19,7 @@ params:
         style: link
       - label: Menu
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: envelope
         icon_position: left
